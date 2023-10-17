@@ -315,3 +315,8 @@ fn main() {
     ref_var2; // no-op, but counts as a use and keeps the borrow active until here
 }
 ```
+
+
+## cool talks:
+
+* [Rayon: Data Parallelism for Fun and Profit — Nicholas Matsakis.](https://youtu.be/gof_OEv71Aw)
