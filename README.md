@@ -320,3 +320,4 @@ fn main() {
 ## cool talks:
 
 * [Rayon: Data Parallelism for Fun and Profit — Nicholas Matsakis.](https://youtu.be/gof_OEv71Aw)
+* [Self-referential structs (in Rust).](https://youtu.be/xNrglKGi-7o)
