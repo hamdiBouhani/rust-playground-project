@@ -316,6 +316,33 @@ fn main() {
 }
 ```
 
+---
+
+```rust
+use std::sync::Arc;
+use std::sync::atomic::{AtomicUsize, Ordering};
+
+struct DistributedCounter {
+    counter: Arc<AtomicUsize>,
+}
+
+impl DistributedCounter {
+    fn new() -> Self {
+        Self {
+            counter: Arc::new(AtomicUsize::new(0)),
+        }
+    }
+
+    fn increment(&self) {
+        self.counter.fetch_add(1, Ordering::SeqCst);
+    }
+
+    fn get(&self) -> usize {
+        self.counter.load(Ordering::SeqCst)
+    }
+}
+```
+
 
 ## cool talks:
 
