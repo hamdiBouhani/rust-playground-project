@@ -1,5 +1,5 @@
 [package]
-name = "part7"
+name = "part7-generics-traits"
 version = "0.1.0"
 edition = "2021"
 

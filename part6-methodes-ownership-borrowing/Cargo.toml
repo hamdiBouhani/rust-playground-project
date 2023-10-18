@@ -1,10 +1,8 @@
 [package]
-name = "part2"
+name = "part6-methodes-ownership-borrowing"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-chrono = "0.4"
-
