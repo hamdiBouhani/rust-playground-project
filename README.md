@@ -348,3 +348,5 @@ impl DistributedCounter {
 
 * [Rayon: Data Parallelism for Fun and Profit — Nicholas Matsakis.](https://youtu.be/gof_OEv71Aw)
 * [Self-referential structs (in Rust).](https://youtu.be/xNrglKGi-7o)
+
+* [Decrusting the axum crate](https://youtu.be/Wnb_n5YktO8)
