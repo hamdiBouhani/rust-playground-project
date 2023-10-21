@@ -350,3 +350,5 @@ impl DistributedCounter {
 * [Self-referential structs (in Rust).](https://youtu.be/xNrglKGi-7o)
 
 * [Decrusting the axum crate](https://youtu.be/Wnb_n5YktO8)
+
+*[5 traits your Rust types must implement](https://youtu.be/Nzclc6MswaI)
