@@ -343,6 +343,8 @@ impl DistributedCounter {
 }
 ```
 
+---
+
 In Rust, `&mut [T]` is a mutable reference to a slice of elements of type `T`. 
 
 - `&mut` indicates that the reference is mutable, which means you can modify the data that the reference points to.
