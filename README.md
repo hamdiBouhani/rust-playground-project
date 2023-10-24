@@ -383,6 +383,7 @@ fn main() {
 
 In this example, `&mut [i32]` is used to take a mutable reference to a slice of `i32` elements, and the `modify_slice` function doubles the values within the slice, which subsequently modifies the original `data` vector.
 
+---
 
 ## cool talks:
 
