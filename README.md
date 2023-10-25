@@ -387,11 +387,9 @@ In this example, `&mut [i32]` is used to take a mutable reference to a slice of 
 
 ## cool talks:
 
-* [Rayon: Data Parallelism for Fun and Profit — Nicholas Matsakis.](https://youtu.be/gof_OEv71Aw)
-* [Self-referential structs (in Rust).](https://youtu.be/xNrglKGi-7o)
-
-* [Decrusting the axum crate](https://youtu.be/Wnb_n5YktO8)
-
-* [5 traits your Rust types must implement](https://youtu.be/Nzclc6MswaI) 
-
-* [Rust & SQL Databases (With Diesel)](https://youtu.be/tRC4EIKhMzw)
+* [Rayon: Data Parallelism for Fun and Profit — Nicholas Matsakis.](https://youtu.be/gof_OEv71Aw).
+* [Self-referential structs (in Rust).](https://youtu.be/xNrglKGi-7o).
+* [Decrusting the axum crate](https://youtu.be/Wnb_n5YktO8).
+* [5 traits your Rust types must implement](https://youtu.be/Nzclc6MswaI).
+* [Rust & SQL Databases (With Diesel)](https://youtu.be/tRC4EIKhMzw).
+* [Yew Crash Course](https://youtu.be/lmLiMozWNGA).
