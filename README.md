@@ -393,3 +393,5 @@ In this example, `&mut [i32]` is used to take a mutable reference to a slice of 
 * [Decrusting the axum crate](https://youtu.be/Wnb_n5YktO8)
 
 * [5 traits your Rust types must implement](https://youtu.be/Nzclc6MswaI) 
+
+* [Rust & SQL Databases (With Diesel)](https://youtu.be/tRC4EIKhMzw)
